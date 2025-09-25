@@ -16,3 +16,7 @@
 {"level":"info","message":"onRequest - STRONG_FILES_CHANGED:/home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.586Z"}
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame","timestamp":"2024-05-23T01:05:33.818Z"}
 {"level":"info","message":"Removing diagnostics from /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/firstGame.gif","timestamp":"2024-05-23T01:05:33.892Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":165,"timestamp":"2025-09-25T02:25:05.182Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":141,"timestamp":"2025-09-25T02:25:05.461Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":104,"timestamp":"2025-09-25T02:25:05.626Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":112,"timestamp":"2025-09-25T02:25:22.940Z"}
